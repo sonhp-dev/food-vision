@@ -1,0 +1,12 @@
+{
+  "initial_bot_message": "Chào bạn! Mình là FoodBot 🥗. Bạn có thể tải ảnh rau củ quả lên để mình nhận diện, xem thông tin dinh dưỡng và hỏi thêm về thực phẩm.",
+  "assistant_name": "FoodBot",
+  "functions": [
+    "nhận diện rau củ quả",
+    "phân tích dinh dưỡng",
+    "giải thích kết quả nhận diện",
+    "trả lời câu hỏi về thực phẩm",
+    "gợi ý món ăn"
+  ],
+  "out_of_scope_message": "Xin lỗi, mình chỉ hỗ trợ các câu hỏi liên quan đến rau củ quả, thực phẩm, dinh dưỡng và món ăn."
+}
